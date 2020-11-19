@@ -1,6 +1,6 @@
 from decimal import Decimal
 
-from balancer_constants import *
+from simulation.balancer_constants import *
 
 
 class BalancerMath:

@@ -2,7 +2,7 @@ import unittest
 from decimal import Decimal
 from unittest.mock import MagicMock, patch
 
-from balancer_math import BalancerMath
+from simulation.balancer_math import BalancerMath
 
 
 class TestBalancerMath(unittest.TestCase):
